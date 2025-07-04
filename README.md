@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Adree</h1>
 <h3 align="center">A passionate developer Developer, Graphic Designer & Video Editor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreerajdas&label=Profile%20views&color=0e75b6&style=flat" alt="adreerajdas" /> </p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adreerajdas" alt="adreerajdas" /></a> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adreerajdas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adreerajdas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreerajdas&label=Profile%20views&color=0e75b6&style=flat" alt="adreerajdas" /> </p>
 
 - 🧑‍🎓 I’m currently pursuing **Diploma in Computer Science Engineering**
 
@@ -13,10 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/addreeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="addreeraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adreerajdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adreerajdas" height="30" width="40" /></a>
-<a href="https://instagram.com/addreeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addreeraj" height="30" width="40" /></a>
-<a href="https://discord.gg/adreeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adreeraj" height="30" width="40" /></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/addreeraj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adreerajdas)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adreeraj ) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adreerajdas) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/addreeraj) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasadreeraj@gmail.com) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +39,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adreerajdas&show_icons=true&locale=en" alt="adreerajdas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adreerajdas&" alt="adreerajdas" /></p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
