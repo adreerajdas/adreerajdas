@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer, Graphic Designer & Video Editor</h3>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
